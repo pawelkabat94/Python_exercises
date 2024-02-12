@@ -1,6 +1,6 @@
 PLN=234
-USD=3.65
-EUR=4.23
+USD=4.01
+EUR=4.32
 
 print("cur","\texchange","amount","\nUSD","\t",USD,"\t",int(PLN)/float(USD),"\nEUR","\t",EUR,"\t",int(PLN)/float(EUR))
 
